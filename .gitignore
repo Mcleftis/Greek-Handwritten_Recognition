@@ -8,6 +8,5 @@ __pycache__/
 .vscode/
 .DS_Store
 *.log
-
 .venv/
 venv/
